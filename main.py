@@ -35,5 +35,3 @@ def run_game():
             break
 # This is a study case
 run_game()
-run_game()
-run_game()
